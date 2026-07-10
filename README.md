@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Assets/Banner.png" alt="Banner" width="100%">
+<img src="Assets/banner.png" alt="Banner" width="100%">
 
 # DEKSITA SASIKUMAR
 
