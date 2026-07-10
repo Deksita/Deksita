@@ -119,9 +119,7 @@ Skills Used
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deksita&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deksita&layout=compact&theme=tokyonight"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deksita&theme=tokyonight)
 
 </div>
 
