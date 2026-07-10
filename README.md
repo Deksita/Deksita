@@ -119,7 +119,7 @@ Skills Used
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deksita&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Deksita&theme=tokyonight)
 
 </div>
 
