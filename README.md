@@ -115,7 +115,7 @@ Skills Used
 
 ---
 
-## GITHUB STATISTICS
+## GITHUB ACTIVITY
 
 <div align="center">
 
