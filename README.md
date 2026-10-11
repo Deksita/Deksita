@@ -115,16 +115,6 @@ Skills Used
 
 ---
 
-## GITHUB ACTIVITY
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Deksita&theme=tokyonight)
-
-</div>
-
----
-
 ## CONNECT WITH ME
 
 <div align="center">
